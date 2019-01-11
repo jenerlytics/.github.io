@@ -1,0 +1,19 @@
+---
+---
+
+<link rel="stylesheet" href="styles.css" type="text/css">
+
+**<span style="color:blue">We'd love to hear from you, so feel free to reach out:</span>**
+
+
+13800 SW Scholls Ferry Rd, Unit 104 <br>
+Beaverton, Oregon 97007<br>
+(971) 331-3658<br>
+Jenerlytics@gmail.com<br>
+
+<br>
+**<span style="color:blue">Scan the image and WeChat us!</span>**
+
+
+<img src="images/name-card-scan.png" style="width:25%;" align="left">
+

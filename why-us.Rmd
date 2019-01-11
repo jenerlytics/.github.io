@@ -1,0 +1,117 @@
+---
+output:
+  html_document: 
+    toc: true
+    toc_float: true
+---
+
+<!-- try to put image after navbar -->
+
+<img src="images/bent-5.png" style="width:100%;" align="center">
+
+
+<link rel="stylesheet" href="styles.css" type="text/css">
+
+
+##**<span style="color:blue">Deep Learning to Deep Care</span>**
+***
+
+Deep-learning uses various deep neural networks that are capable of automatically learning from data, making predictions based on data and automating the task without being explicitly programmed to do so. With great success, deep-learning has been applied in many fieds, such as health care, insurance, NPL, image processing, insurance, autonomous vehicles. Under the spirit of ever-improving deep-learning networks as well as a powerful digital tool, Deep-learning to Deep Care has been a unique positioning of Deep Care Property Management LLC, characterized by the deep insights of customer needs/wants, digital-based flawless execution, such as digital marketing, predictive maintenance, smart accounting reports and smart customer interactions.
+
+
+<img src="images/rate-forecast-01.png" style="width:100%;" align="center">
+
+As an example, above graph shows the next 6 month rental rate forecast, based on machine learning model and data available. some of the comments below:
+
+- We build deep-learning model from historical data as well as other data such as the trends of future economic factors and indicators, and able to forecast confidently the rental rate changes in the next six months.
+
+-  As we can see, in at least next 6 months, the rental rates are going to decline a little bit, which is a good news to tenants, but not so good for landlord. More must be done to save costs and improve property management efficiency.
+
+-  Among many others, one of the answers to the challenge of real property management is the embrace the digital technologies, digital marketing and combination of digital technolgies with the maturity and lean and agile systems.
+
+<img src="images/deep-cloud.jpg" style="width:100%;" align="center">
+
+
+##**<span style="color:blue">Lean, Agile, Digital Process</span>**
+***
+
+Deep Care Property Management combines LEAN, AGILE DIGITAL three in one, leveraging their advantages and successful stories, the maturity and effectiveness of lean manufacturing system, flexible and adaptive agile project management methodology and the efficient and great user-experience of digital tools, all focusing at three things: people, process, tools & technolgies.
+ 
+
+<img src="images/Service-1.png" style="width:100%;" align="center">
+
+
+
+##**<span style="color:blue">Reliable Professionals</span>**
+
+***
+
+We are a group of people with comprehensive knowledge, experience and skills related to property management, including many year's work experience in Honeywell Building Solutions, Connected Home and Energy Management, Data Analytics and Deep Learning for Facility Management.
+
+<!-- Jack Wu -->
+<div class = "row">
+<div class = "col-md-6">
+
+<img src="images/jack-photo.png" style="width:60%;" align="left">
+</div>
+<div class = "col-md-6">
+
+
+**JACK WU**
+
+
+- Oregon Certified property manager
+- 9 Year Honeywell Building Solution work experience
+- Managed many residential and commercial buildings
+- Data analytics and deep learning expertise
+
+
+</div>
+</div>
+
+<!-- don johnson -->
+
+<div class = "row">
+<div class = "col-md-6">
+<br>
+
+<img src="images/johnson.png" style="width:60%;" align="left">
+
+</div>
+<div class = "col-md-6">
+<br>
+
+**DON JOHNSON**
+<br>
+
+- LEED certified project manager
+- 21 year property development & management experience
+- A member of the American Institute of Certified Planners
+- Master of Planning, Humphrey Institute of Public Affairs, Univ of Minnesota
+
+</div>
+</div>
+
+<!-- curt sommer-->
+<div class = "row">
+<div class = "col-md-6">
+<br>
+
+<img src="images/curt.jpg" style="width:60%;" align="left">
+
+</div>
+<div class = "col-md-6">
+<br>
+
+**CURT SOMMER**
+<br>
+
+- 5+ year home buiding/renovation hands on experience
+- Hands-on skills with home maintenance, repair, renovation and rebuild
+- Broad connection with various service suppliers and experience in suppliers
+- Mechanical and electrical engineering background
+
+</div>
+</div>
+
+

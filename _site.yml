@@ -1,0 +1,33 @@
+name: "Jack Wu"
+output_dir: "."
+
+navbar:
+  title: "<img id=\"logo\" style=\"width: 48px;height:28px;\" src=\"logo-new1.PNG\" />"
+  # font-size: 32px
+  type: inverse
+  left:
+    - text: "        "
+      href: sssss.html
+    - text: "Why Us"
+      href: why-us.html
+    - text: "Landlords"
+      href: landlord.html
+    - text: "Renters"
+      href: tenant.html
+    - text: "Contact Us"
+      href: contact-us.html
+      
+  right:
+    - icon: fa-envelope fa-lg
+      href: contact-us.html
+    - icon: fa-weixin fa-lg
+    - icon: fa-home fa-lg
+    - icon: fa-mobile-alt fa-lg
+    
+output: 
+  html_document:
+    theme: paper
+    header-includes:
+      #-\usepackage{color}
+    #code_folding: hide
+    css: 'styles.css'

@@ -1,0 +1,37 @@
+---
+---
+
+---
+output:
+  html_document: 
+    toc: true
+    toc_float: true
+---
+
+<!-- try to put image after navbar -->
+
+<img src="images/bent-5.png" style="width:100%;" align="center">
+
+
+<link rel="stylesheet" href="styles.css" type="text/css">
+<br>
+
+
+##**<span style="color:blue">Paradigm Shift</span>**
+***
+Property management has existed for many years, characterized by the hard-to-plan rush-up events, low efficiency, small scale labor intensive activities and in many cases, there is no clue what's going to happen... With the presence of digital age, characterised by the rise of predictive analytics and machine learning, the property management is undergoing a paradigm shift from tranditional ways of management to data driven predictive ones, targeting to achieve higher effectivenss and efficiency, lower operation costs and improved user experience from digital technologies.
+
+
+##**<span style="color:blue">Market Driven Business</span>**
+***
+<img src="images/rate-forecast-01.png" style="width:100%;" align="center">
+
+Whoever you are, tenant or landlord, to understand current real estate market conditions and future trends are very important. Landlord can make more money by properly pricing the rental properties based on market conditions, and renters can save money by finding better cost effective rental homes. With the rapid growth of predictive data analytics and machine learning, data driven decision making has prevailed elsewhere. For real property management, one example is to predict future rental schedule based on comprehensive data modeling. Historical data tell us how to avoid mitakes in the past, present data guide us to opertimize current operations, and infer into future. The acurate future forecasts provides decision support material facts for landlords and tenants. 
+
+
+##**<span style="color:blue">Lean, Agile, Digital</span>**
+***
+<br>
+<img src="images/Service-1.png" style="width:100%;" align="center">
+
+

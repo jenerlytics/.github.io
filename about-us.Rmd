@@ -1,0 +1,104 @@
+---
+output:
+  html_document: 
+    toc: true
+    toc_float: true
+---
+
+<!-- try to put image after navbar -->
+
+<img src="images/bent-5.png" style="width:100%;" align="center">
+
+<link rel="stylesheet" href="styles.css" type="text/css">
+
+## **Contacts**
+
+***
+
+We'd love to hear from you, so feel free to reach out:
+
+13800 SW Scholls Ferry Rd, Unit 104 <br>
+Beaverton, Oregon 97007<br>
+(971) 331-3658<br>
+Jenerlytics@gmail.com<br>
+
+## **Overview**
+***
+We are experienced professionals with deep passions to help landlords and tenants,  a customer DeepCare based property management team,locally owned and operated, with comprehensive knowledge and experience in real property management. Using the state-of-the-art technologies and management framework, We can bring better services and better care, at scale and with lower cost. Also our services are comprehensive. We create great tenancy and leaseship experience.
+
+## **Our Mission**
+***
+The mission of DeepCare Property Management is to provide the highest level of service to our clients with professionalism, agility and efficiency. DeepCare Property Management provides quality property management services in Portland Region.
+
+
+## **Our Team**
+***
+
+We are a group of people with comprehensive knowledge, experience and skills related to property management, including many year's work experience in Honeywell Building Solutions, Connected Home and Energy Management, Data Analytics and Deep Learning for Facility Management.
+
+<!-- Jack Wu -->
+<div class = "row">
+<div class = "col-md-6">
+
+<img src="images/jack-photo.png" style="width:60%;" align="left">
+</div>
+<div class = "col-md-6">
+
+
+**JACK WU**
+
+
+- Oregon Certified property manager
+- 9 Year Honeywell Building Solution work experience
+- Managed many residential and commercial buildings
+- Data analytics and deep learning expertise
+
+
+</div>
+</div>
+
+<!-- don johnson -->
+
+<div class = "row">
+<div class = "col-md-6">
+<br>
+
+<img src="images/johnson.png" style="width:60%;" align="left">
+
+</div>
+<div class = "col-md-6">
+<br>
+
+**DON JOHNSON**
+<br>
+
+- LEED certified development project manager
+- 21 year property development & management experience
+- A member of the American Institute of Certified Planners
+- Master of Planning, Humphrey Institute of Public Affairs, Univ of Minnesota
+
+</div>
+</div>
+
+<!-- curt sommer-->
+<div class = "row">
+<div class = "col-md-6">
+<br>
+
+<img src="images/curt.jpg" style="width:60%;" align="left">
+
+</div>
+<div class = "col-md-6">
+<br>
+
+**CURT SOMMER**
+<br>
+
+- 5+ year home buiding/renovation hands on experience
+- Hands-on skills with home maintenance, repair, renovation and rebuild
+- Broad connection with various service suppliers and experience in suppliers
+- Mechanical and electrical engineering background
+
+</div>
+</div>
+

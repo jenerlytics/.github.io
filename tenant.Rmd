@@ -1,0 +1,64 @@
+---
+output:
+  html_document: 
+    toc: true
+    toc_float: true
+---
+
+<img src="images/bent-5.png" style="width:100%;" align="center">
+
+<br>
+
+##**<span style="color:blue">Goals & Objectives</span>**
+***
+- To help your find cost-effective rental properties
+- To protect the right of exclusive possession of the rental property
+- To promote a "habitable" home, secure, safe and sanitary
+
+<img src="images/idea-success-1.png" style="width:80%;" align="center">
+
+##**<span style="color:blue">Services</span>**
+***
+- To Help find ideal rental properties
+- To follow the rental agreement and perform all nessary tasks
+- To respond timely maintenance, repair requests
+- To help save utility bills via data analytics and machine learning if requested
+- To help build connecting networks, people help people
+- ...
+
+Speed, cost and customer care are our top metrics in property management service. For renters we want you to save money, to enjoy peaceful living and be happy with everybody.  DeepCare utilizes lean and agile management frameworks, together with data analytics and machine learning state-of-the-art technologies, to reduce various kinds of wastes, improve service agility and flexibility, and strike the best interest balance between landlords and tenants.
+
+<br>
+
+<img src="images/drone-home.jpg" style="width:100%;" align="center">
+
+<br>
+
+##**<span style="color:blue">Our Advantages</span>**
+***
+- Comprehensive customer care experiences
+- In-House maintenance & repair capabilities
+- Team combination with various required skills or disciplines
+- Seriousness, order, carefulness, responsible
+- Believe in collaboration, partnership and networking
+- Great vendor resources for a quick response to any problems
+- Lean, agile and digital robust processes and procedures
+
+<br>
+
+<img src="images/Service-1.png" style="width:100%;" align="center">
+
+##**<span style="color:blue">Useful Linkages</span>**
+
+***
+- [Zillow rental house search](https://scholar.google.com/citations?user=tLbQTZMAAAAJ&hl=en)
+- [Multnomah Rent Right Resource Guide 2018 ](https://multco.us/file/rentrightresourceguidepdf) 
+- [Oregon Rental Housing Association](https://www.oregonrentalhousing.com/) 
+- [Zillow Oregon Rental](https://www.zillow.com/or/rentals/) 
+- [Reator.com Rental Listing](https://www.realtor.com/rentals) 
+- [Oregon Real Estate Complaints Linkage](https://www.oregon.gov/rea/complaints_consumer/pages/complaint.aspx)
+ 
+
+
+
+
